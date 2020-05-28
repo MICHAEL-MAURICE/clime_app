@@ -1,6 +1,6 @@
 # flutter_clima
 
-A new Flutter application.
+this app to get the weather for your day for any town and give you some advice for this day
 
 ## Getting Started
 
